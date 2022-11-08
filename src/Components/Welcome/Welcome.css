@@ -1,0 +1,9 @@
+.welcome{
+    background-image: url('https://www.builderfly.com/wp-content/uploads/2019/10/Things-to-consider-offline-to-online-min.jpg');
+}
+.box{
+    height: 200px;
+    width:auto;
+    background-color: white;
+    color: black;
+}
